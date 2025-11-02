@@ -119,6 +119,9 @@ function App() {
         <p style={{ fontSize: '0.8rem', marginTop: '10px', opacity: 0.8 }}>
           © 2024 Japan Biodiversity Dashboard. All rights reserved.
         </p>
+        <p style={{ fontSize: '0.75rem', marginTop: '5px', opacity: 0.7, color: '#a5d6a7' }}>
+          v2.0 - Mobile Optimized ✓
+        </p>
       </footer>
 
       {/* Chatbot - Always accessible with Voice Input */}
