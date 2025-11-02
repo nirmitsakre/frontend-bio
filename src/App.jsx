@@ -120,7 +120,7 @@ function App() {
           © 2024 Japan Biodiversity Dashboard. All rights reserved.
         </p>
         <p style={{ fontSize: '0.75rem', marginTop: '5px', opacity: 0.7, color: '#a5d6a7' }}>
-          v2.0 - Mobile Optimized ✓
+          v3.0 - Mobile Optimized ✓
         </p>
       </footer>
 
