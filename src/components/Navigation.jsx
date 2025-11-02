@@ -22,7 +22,7 @@ const Navigation = ({ onThemeToggle, isDarkMode }) => {
       <div className="nav-content">
         <div className="nav-brand">
           <span className="brand-icon">🌿</span>
-          <span className="brand-text">Japan Bio Dashboard</span>
+          <span className="brand-text">Japan Bio Dashboard (with dummy data)</span>
         </div>
 
         <button
