@@ -182,8 +182,7 @@
     position: fixed;
     top: 70px;
     right: -100%;
-    width: 280px;
-    max-width: 85vw;
+    width: 100%;
     height: calc(100vh - 70px);
     background: rgba(46, 125, 50, 0.98);
     backdrop-filter: blur(10px);
@@ -192,7 +191,6 @@
     gap: 0;
     padding: 20px;
     transition: right 0.4s ease;
-    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.2);
     overflow-y: auto;
   }
 
@@ -273,8 +271,6 @@
   .nav-menu {
     top: 60px;
     height: calc(100vh - 60px);
-    width: 100%;
-    max-width: 100%;
     padding: 15px;
   }
 
